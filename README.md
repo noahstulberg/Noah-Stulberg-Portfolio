@@ -13,6 +13,9 @@ Description: In this project, I conducted an analysis of a company's email campa
 Tools and Techniques:
 
 SQL: Used to query and analyze the company's sample email campaign data.
+
 Data Extraction: Extracted relevant data from the sample database using SQL queries.
+
 Data Manipulation: Performed data transformations and calculations to derive meaningful insights.
+
 Statistical Analysis: Employed statistical techniques to analyze campaign performance metrics.
